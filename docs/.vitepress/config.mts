@@ -4,7 +4,6 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "KaiZen's Site",
   description: "A Website of KaiZen",
-  base: "/kaizen-dev-lab/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
